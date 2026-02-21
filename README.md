@@ -97,7 +97,7 @@
 <h2 align="center">📊 3D Contribution Graph</h2>
 <p align="center">
   <a href="https://github.com/TejasSharma356">
-    <img src="https://github-readme-3d-contrib.vercel.app/TejasSharma356" alt="3D Contribution Graph" width="100%"/>
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
   </a>
 </p>
 
@@ -113,19 +113,19 @@
 
 <p align="center">
   <a href="https://github.com/TejasSharma356/VERDICT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TejasSharma356&repo=VERDICT&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2ff7&text_color=a0a0a0" />
+    <img src="https://readme-stats-fork-mauve.vercel.app/api/pin/?username=TejasSharma356&repo=VERDICT&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2ff7&text_color=a0a0a0" />
   </a>
   <a href="https://github.com/TejasSharma356/SyncMind">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TejasSharma356&repo=SyncMind&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2ff7&text_color=a0a0a0" />
+    <img src="https://readme-stats-fork-mauve.vercel.app/api/pin/?username=TejasSharma356&repo=SyncMind&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2ff7&text_color=a0a0a0" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/TejasSharma356/Hack-O-Hire">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TejasSharma356&repo=Hack-O-Hire&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2ff7&text_color=a0a0a0" />
+    <img src="https://readme-stats-fork-mauve.vercel.app/api/pin/?username=TejasSharma356&repo=Hack-O-Hire&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2ff7&text_color=a0a0a0" />
   </a>
   <a href="https://github.com/TejasSharma356/VyaparMitr">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TejasSharma356&repo=VyaparMitr&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2ff7&text_color=a0a0a0" />
+    <img src="https://readme-stats-fork-mauve.vercel.app/api/pin/?username=TejasSharma356&repo=VyaparMitr&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2ff7&text_color=a0a0a0" />
   </a>
 </p>
 
